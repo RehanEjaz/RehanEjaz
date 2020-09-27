@@ -1,7 +1,7 @@
-### Hi there, I'm Rehan Ejaz 
+## Hi there, I'm Rehan Ejaz 
 
 
-## I'm a Design Engineer , and Student!
+### I'm a Hardware Design and Verification Engineer!
 
 * I’m currently working as an intern at [MICRO ELECTRONICS RESEARCH LAB](https://www.merledupk.org)!
 * I’m currently learning everything 
@@ -16,7 +16,17 @@
 
 <br />
 
+### 💻 Languages and Tools: 
+  
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="20" src="http://tiny.cc/5h2ysz"> 
+<img align="left" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzO9X0W6WNMpcWCryfTa0OpdkhCxmpywSQgw&usqp=CAU">
+<img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png">
+<img align="left" height="20" src="https://www.clipartmax.com/png/small/87-877926_git-git-icon.png">
+<img align="left" height="20" src="https://www.clipartmax.com/png/small/117-1179524_icon-arduino-arduino-logo.png">
+<img align="left" height="20" src="https://www.clipartmax.com/png/small/150-1504620_javascript-logo.png">
+<img align="left" height="20" src="https://www.clipartmax.com/png/small/240-2409409_c-programming-icon-c-programming-language-icon.png">
 
 <br />
 <br />
