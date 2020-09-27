@@ -1,12 +1,12 @@
-### Hi there, I'm Rehan Ejaz 👋
+### Hi there, I'm Rehan Ejaz 
 
 
 ## I'm a Design Engineer , and Student!
 
-- 🔭 I’m currently working as an intern at [MICRO ELECTRONICS RESEARCH LAB](https://www.merledupk.org)!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ interests: I love to work in automation and robotics
+* I’m currently working as an intern at [MICRO ELECTRONICS RESEARCH LAB](https://www.merledupk.org)!
+* I’m currently learning everything 
+* 2020 Goals: Contribute more to Open Source projects
+* interests: I love to work in automation and robotics
 
 ### Connect with me:
 
