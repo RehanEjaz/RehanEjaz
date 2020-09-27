@@ -24,7 +24,7 @@
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/117-1179524_icon-arduino-arduino-logo.png">
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/240-2409409_c-programming-icon-c-programming-language-icon.png">
 <img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png">
-<img align="left" height="20" src="https://www.google.com/search?q=autocad+png&rlz=1C1SQJL_enPK919PK919&tbm=isch&source=iu&ictx=1&fir=Y-aEuItji2nmVM%252Cl3yhJH-OJo5uWM%252C_&vet=1&usg=AI4_-kSCaAooAFj0jvfEuklV_PTx_euFWw&sa=X&ved=2ahUKEwiyt7n324nsAhXBilwKHThKDe8Q9QF6BAgIEFA&biw=1600&bih=767#imgrc=Y-aEuItji2nmVM">
+<img align="left" height="20" src="https://www.clipartmax.com/middle/m2i8m2N4d3H7d3G6_autocad-autocad-2014-logo-png">
 
 <br />
 <br />
