@@ -1,3 +1,4 @@
+![](http://visitor-badge.glitch.me/badge?page_id=RehanEjaz.RehanEjaz)
 ## Hi there, I'm Rehan Ejaz 
 
 
