@@ -6,7 +6,7 @@
 
 * I’m currently working as an intern at [MICRO ELECTRONICS RESEARCH LAB](https://www.merledupk.org)!
 * I’m currently learning everything 
-* 2020 Goals: Contribute more to Open Source projects
+* Goals: Contribute more to Open Source projects
 * interests: I love to work in automation and robotics
 
 ### Connect with me:
