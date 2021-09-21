@@ -13,6 +13,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/RehanEjaz)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/WorldExplorers)
+<a  href="https://www.linkedin.com/in/RehanEjaz/"><img height="50" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 <br />
 
@@ -23,7 +24,6 @@
 <img align="left" height="50" src="https://www.clipartmax.com/png/small/117-1179524_icon-arduino-arduino-logo.png">
 <img align="left" height="50" src="https://www.clipartmax.com/png/small/240-2409409_c-programming-icon-c-programming-language-icon.png">
 <img align="left" height="50" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png">
-<a  href="https://www.linkedin.com/in/RehanEjaz/"><img height="50" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 <img align="left" height="50" src="https://www.clipartmax.com/png/small/166-1666865_algoholic-a-coders-blog-matlab-icon-png.png">
 <img align="left" height="50" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
