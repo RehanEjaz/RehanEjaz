@@ -4,11 +4,9 @@
 
 ### I'm a Hardware Design and Verification Engineer!
 
-* I’m currently working at [MICRO ELECTRONICS RESEARCH LAB](https://www.merledupk.org)!
-* I’m currently learning SoC designing, Vector processing and Python
-* Goals: Contribute more to Open Source projects
-* interests: I love to work in automation and robotics
-
+* I’m currently working at [Xcelerium](https://xcelerium.com)!
+* I’m currently working as a TOP Level SOC Design Enginner
+  
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/RehanEjaz)
